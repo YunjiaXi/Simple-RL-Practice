@@ -1,2 +1,0 @@
-cliffWalking环境在Envs.py中，Envs.py中第一个类是gridWorld， 下面还有一个类是cliffWalking。
-Sarsa，Q-Learning，Sarsa lambda都在ModelFreeControl.py的ModelFreeControl类中。
