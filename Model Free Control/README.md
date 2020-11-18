@@ -1,4 +1,4 @@
-## Assignment 3 Model Free Control Report
+## Model Free Control 
 
 ### 1 Experiment Requirements 
 
