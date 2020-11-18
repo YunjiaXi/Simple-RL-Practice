@@ -1,4 +1,4 @@
-## Assignment 2 MC & TD Prediction Report
+##  MC & TD Prediction 
 
 ### 1 Experiment Requirements
 
